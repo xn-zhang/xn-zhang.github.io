@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xiaoning Zhang is currently a Postdoc Fellow at Pengcheng Lab. Interested in Digital Twin, Industrial Intelligence, Artificial Intelligence of Things (AIoT), and Numerical fire simulation.
+  Dr. Xiaoning Zhang is currently a Postdoc Fellow at Pengcheng Lab. Interested in Digital Twin, Industrial Intelligence, Artificial Intelligence of Things (AIoT), and Numerical fire simulation.
 
 Education Background
 ======
-B.Eng. in Safety Engineering, China University of Petroleum (2015 - 2019)
+  2015 - 2019 B.Eng. in Safety Engineering, China University of Petroleum 
 
-MSc in Fire and Safety Engineering, HK PolyU (2019 - 2020)
+  2019 - 2020 MSc in Fire and Safety Engineering, HK PolyU 
 
-PhD, Research Centre for Fire Safety Engineering, HK PolyU (2020 - 2024)
+  2020 - 2024 PhD, Department of BEEE, HK PolyU 
 
-Visiting PhD student, Lund University (2023)
+  2023.02-08  Visiting PhD student, Lund University 
 
 Selected Publications
 ======
