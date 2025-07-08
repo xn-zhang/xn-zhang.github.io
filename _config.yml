@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xiaoning ZHANG"
+title                    : "Xiaoning ZHANG/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiaoning Zhang"
 description              : &description ""
