@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xiaoning ZHANG, PCL"
+title                    : "Xiaoning ZHANG"
 title_separator          : "-"
 name                     : &name "Xiaoning Zhang"
 description              : &description ""
@@ -28,7 +28,7 @@ author:
   bio              : "Postdoc@Pengcheng Lab"
   location         : "Shenzhen, Guangdong, China"
   employer         : "Peng Cheng Laboratory"
-  uri              : "https://www.pcl.ac.cn/"
+  uri              : #"https://www.pcl.ac.cn/"
   email            : "zhangxn@pcl.ac.cn" 
 
   # Academic websites
